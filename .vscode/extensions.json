@@ -1,0 +1,7 @@
+{
+    "recommendations": [
+        "elmtooling.elm-ls-vscode",
+        "necinc.elmmet",
+        "aaron-bond.better-comments"
+    ]
+}
